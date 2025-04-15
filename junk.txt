@@ -1,0 +1,21 @@
+{/* <table>
+                <thead>
+                <tr>
+                    <td>Title</td>
+                    <td>Task</td>
+                    <td>Deadline</td>
+                    <td>High Priority</td>
+                </tr>
+                </thead>
+                <tbody>
+                {todos.map((todo) => <tr key={todo.$id}>
+                    <td>{todo.task_title}</td>
+                    <td>{todo.task_content}</td>
+                    <td>{todo.deadline.slice(0, 10)}</td>
+                   {
+                    todo.high_priority ? <td>Yes</td> : <td>No</td>
+                   }
+                    
+                </tr>)}
+                </tbody>
+            </table> */}
