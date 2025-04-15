@@ -1,5 +1,5 @@
 import React from 'react'
-import CreateTodo from './createTodo'
+import CreateTodo from './CreateTodo'
 import ListTodos from './ListTodos'
 import Navbar from './Navbar'
 

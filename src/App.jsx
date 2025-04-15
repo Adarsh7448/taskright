@@ -6,8 +6,8 @@ import './App.css'
 import Dashboard from './components/Dashboard'
 import Login from './components/Login'
 import Register from './components/Register'
-import ListTodos from './components/ListTodos'
-import CreateTodo from './components/createTodo'
+// import ListTodos from './components/ListTodos'
+// import CreateTodo from './components/createTodo'
 function App() {
 
     return (
